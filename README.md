@@ -1,4 +1,4 @@
-<!--- # nikitasingh1998.github.io ---!>
+# nikitasingh1998.github.io
 
 ### subheading3
 1. ELement 1   
